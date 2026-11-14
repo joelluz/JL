@@ -9,7 +9,7 @@ const CONFIG = {
   // ESCRIBE TU NÚMERO PERUANO, con código 51, sin + ni espacios.
   // Ejemplo ficticio de formato: '519XXXXXXXX'. Déjalo vacío para probar.
   // El número se conserva tal como fue proporcionado. Para abrir wa.me debe incluir 51 delante.
-  whatsappConfirmaciones: '51952349829',
+  whatsappConfirmaciones: '51957143567',
   // Reemplaza estos enlaces por ubicaciones precisas de Google Maps si las tienes.
   mapsIglesia: 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent('Parroquia San José Misericordioso Tacna Perú'),
   mapsRecepcion: 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent('La Gran Reserva Santa Elena Av. Los Viñedos D-4 Pago Peschay Pocollay Tacna Perú'),
